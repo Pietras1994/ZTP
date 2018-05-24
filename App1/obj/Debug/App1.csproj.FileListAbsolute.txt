@@ -1,0 +1,32 @@
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\bin\Debug\App1.exe.config
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\bin\Debug\App1.exe
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\bin\Debug\App1.pdb
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\bin\Debug\DotNetZip.dll
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\bin\Debug\DotNetZip.xml
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\obj\Debug\App1.exe
+c:\users\piotr waleczek\documents\visual studio 2015\Projects\ZTP\App1\obj\Debug\App1.pdb
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\obj\Debug\App1.exe
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\obj\Debug\App1.pdb
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\App1.exe.config
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\App1.exe
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\App1.pdb
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\DotNetZip.dll
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\System.ValueTuple.dll
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\DotNetZip.xml
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\bin\Debug\System.ValueTuple.xml
+C:\Users\Piotr Waleczek\Desktop\ZTP\App1\obj\Debug\App1.csproj.CopyComplete
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\obj\Debug\App1.exe
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\obj\Debug\App1.pdb
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\App1.exe.config
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\App1.exe
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\App1.pdb
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\DotNetZip.dll
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\System.ValueTuple.dll
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\DotNetZip.xml
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\bin\Debug\System.ValueTuple.xml
+C:\Users\Piotr Waleczek\Desktop\ZTP\ZTP\App1\obj\Debug\App1.csproj.CopyComplete
